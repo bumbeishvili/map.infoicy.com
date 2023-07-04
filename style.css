@@ -1,3 +1,9 @@
 #augmentReality {
     display: none;
 }
+
+#example-scanning-overlay {
+}
+#example-scanning-overlay.hidden {
+  display: none;
+}
